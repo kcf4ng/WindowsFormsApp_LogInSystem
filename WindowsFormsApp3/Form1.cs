@@ -19,6 +19,7 @@ namespace WindowsFormsApp3
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            //視窗初始化
 
         }
     
